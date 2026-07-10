@@ -1,0 +1,11 @@
+;; Real-world organization location / contact.
+;; :head-role is institutional title only — no personal names.
+{:ooyake-id "gov.gha"
+  :official-url "https://www.ghana.gov.gh/"
+  :name-en "Ghana"
+  :wikidata "Q117"
+  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
+  :contact-page "https://www.wikidata.org/wiki/Q3761"
+  :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
+  :hq {:line-en "Accra" :country "gha" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q3761" :last-verified "2026-06-04" :sourcing "authoritative"}
+}
