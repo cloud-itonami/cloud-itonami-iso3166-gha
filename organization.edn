@@ -4,6 +4,7 @@
   :official-url "https://www.ghana.gov.gh/"
   :name-en "Ghana"
   :wikidata "Q117"
+  :head-role "PPA / GHANEPS"
   :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
   :contact-page "https://www.wikidata.org/wiki/Q3761"
   :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
