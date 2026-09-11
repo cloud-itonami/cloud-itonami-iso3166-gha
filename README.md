@@ -3,7 +3,7 @@
 **`:implemented`** for **GHA**. Flagship `gh-entity-missing`, tax `tin-unverified`.
 
 ```
-clojure -M:dev:test
+kbb -M:dev:test
 ```
 
 AGPL-3.0-or-later.
